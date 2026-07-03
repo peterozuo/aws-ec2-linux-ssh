@@ -28,7 +28,13 @@ This project demonstrates how I launched an Ubuntu EC2 instance on Amazon Web Se
 
 ## Screenshots
 
-(Screenshots will be added here.)
+### EC2 Instance Connect
+
+![EC2 Instance Connect](ec2-instance-connect.png)
+
+### Successful SSH Login
+
+![Successful SSH Login](ssh-login-success.png)
 
 ## What I Learned
 
